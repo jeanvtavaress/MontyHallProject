@@ -1,16 +1,16 @@
 # Monty Hall
-The Monty Hall problem, also known as the Monty Hall paradox is a mathematical problem and paradox that emerged from a US television contest called Let's Make a Deal, aired in the 1970s.
+O problema de Monty Hall, também conhecido como paradoxo de Monty Hall, é um problema matemático e paradoxo que surgiu de um concurso de televisão dos EUA chamado Let's Make a Deal, exibido na década de 1970.
 
 
-## How the game works
-- Select the number of ports
-- Choose which door will keep the gift
-- start the game
-- To open a door, click on the handle
+## Como o jogo funciona
+- Selecione o número de portas.
+- Escolha qual porta guardará o presente.
+- comece o jogo.
+- Para abrir uma porta, clique na maçaneta.
 
-Play now at https://clever-pithivier-c6612b.netlify.app/
+Jogue agora https://clever-pithivier-c6612b.netlify.app/
 
-![MH-home](https://user-images.githubusercontent.com/93844556/192055078-f4d33cab-57f7-461f-9a48-fede80be72b3.png)
+![MH-home](https://user-images.githubusercontent.com/93844556/192057509-6ec13937-788c-412f-adae-10580dfc3b0a.png)
 
 ![MH-play](https://user-images.githubusercontent.com/93844556/192055093-496f1240-6e09-49a7-9d05-f0bc814331f6.png)
 
