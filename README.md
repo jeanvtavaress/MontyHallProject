@@ -8,7 +8,7 @@ O problema de Monty Hall, também conhecido como paradoxo de Monty Hall, é um p
 - comece o jogo.
 - Para abrir uma porta, clique na maçaneta.
 
-Jogue agora https://clever-pithivier-c6612b.netlify.app/
+Jogue agora jeanvtavaressmontyhall.netlify.app
 
 ![MH-home](https://user-images.githubusercontent.com/93844556/192057509-6ec13937-788c-412f-adae-10580dfc3b0a.png)
 
